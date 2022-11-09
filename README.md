@@ -1,0 +1,7 @@
+-  Hi, I’m @AnonymousMesquita
+-  I’m interested in boxiing
+-  I’m currently learning Python
+-  I’m looking to become a programmer
+-  How to reach me :
+-   IG - @mesquita.com.br
+-   GM - victorhugomesquita19@gmail.com
